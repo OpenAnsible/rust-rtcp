@@ -1,4 +1,4 @@
-Rust RTCP Lib
+Rust RTCP Library
 =====================
 
 
